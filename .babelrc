@@ -1,0 +1,6 @@
+{
+  "sourceRoot": "webapp",
+  "presets": [
+    "ui5"
+  ]
+}
